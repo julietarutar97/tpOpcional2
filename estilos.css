@@ -1,0 +1,44 @@
+
+body{
+    background-color: #efeeee;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.tarjetaUno{
+    background-color: #fefefe;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.tarjetaDos{
+    background-color: #373737;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.tarjetaTres{
+    background: linear-gradient(to bottom,#fafafa 60%, #ddb2dc);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.tarjetaCuatro{
+   background-color: #f7f7f7;
+   border-radius: 30px;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+}
